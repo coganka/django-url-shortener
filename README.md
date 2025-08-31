@@ -22,7 +22,7 @@ Supports short links, expiry, click limits, QR codes, and stats.
 
 ### 1. Clone & install dependencies
 ```bash
-git clone https://github.com/coganka/shorty.git
+git clone https://github.com/coganka/django-url-shortener.git
 cd shorty
 python -m venv .venv && source .venv/bin/activate
 pip install -U pip
